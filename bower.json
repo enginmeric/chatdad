@@ -1,0 +1,17 @@
+{
+  "name": "chatdad",
+  "description": "",
+  "main": "",
+  "authors": [
+    "enginmeric <66911935+enginmeric@users.noreply.github.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/enginmeric/chatdad",
+  "dependencies": {
+    "angular": "^1.8.2"
+  }
+}
